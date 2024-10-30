@@ -20,6 +20,9 @@
   <project path="art" name="android_art" remote="pixelage" />
   <project path="bionic" name="android_bionic" remote="pixelage" />
 
+  <!-- bootable -->
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="pixelage" />
+
   <!-- build -->
   <project path="build/make" name="android_build" groups="pdk" remote="pixelage" >
     <copyfile src="core/root.mk" dest="Makefile" />
