@@ -39,6 +39,7 @@
   <project path="hardware/google/pixel" name="android_hardware_google_pixel" remote="lineage" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="lineage" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" groups="qcom_wlan,pdk-qcom" remote="lineage" />
+  <project path="hardware/ril" name="android_hardware_ril" groups="pdk" remote="lineage" />
 
   <!-- kernel -->
   <project path="kernel/configs" name="android_kernel_configs" groups="vts,pdk" remote="lineage" />
