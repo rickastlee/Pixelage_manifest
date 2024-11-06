@@ -86,7 +86,6 @@
   <project path="hardware/qcom-caf/sm8150/media" name="android_hardware_qcom_media" groups="qcom,msmnile" remote="pixelage" revision="15-caf-sm8150" />
 
   <!-- vendor -->
-  <project path="vendor/qcom/opensource/commonsys/fm" name="android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qssi" remote="pixelage" />
   <project path="vendor/qcom/opensource/usb" name="android_vendor_qcom_opensource_usb" groups="qcom,kailua-vendor" remote="pixelage" />
 
 </manifest>
